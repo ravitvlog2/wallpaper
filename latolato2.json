@@ -69,6 +69,12 @@
       "name_category": "Car",
       "image": "file:///android_asset/image/car.jpg"
 
+    },
+       {
+      "id": 4,
+      "name_category": "CAT",
+      "image": "file:///android_asset/image/car.jpg"
+
     }
   ],
 
@@ -110,6 +116,12 @@
       "name_category": "Car",
       "title":"Super Car",
       "image":"file:///android_asset/image/car.jpg"
+    },
+     {
+      "id":7,
+      "name_category": "CAT",
+      "title":"cat aja 2",
+      "image":"https://en.wiktionary.org/wiki/File:Cat03.jpg"
     }
   ]
 }
