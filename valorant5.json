@@ -83,45 +83,45 @@
     {
       "id":1,
       "name_category": "Kiljoy",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "title":"Kiljoy1",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78602559-699d-4b3c-97f4-5b072b59e33f/df3mt8t-2eaf0652-d8fe-4a16-a8de-630f0b034875.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4NjAyNTU5LTY5OWQtNGIzYy05N2Y0LTViMDcyYjU5ZTMzZlwvZGYzbXQ4dC0yZWFmMDY1Mi1kOGZlLTRhMTYtYThkZS02MzBmMGIwMzQ4NzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.d9Ffe8oQFY7VeM-uN_WOXbyQ3AGV7FoEnu_G_Wcv3ig"
     },
     {
       "id": 2,
       "name_category": "Cypher",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "title": "Cypher",
+      "image": "https://fsb.zobj.net/crop.php?r=rSAiWoCVl6l-mSTvRuwC0iQpv3P5Sn4q7qoR-WPzrCLsg_UsBzxgxz2QQJ-FJyOohkcnD5wuTW7j_MKy3GYXOo3PsIJyWJkYp1CJHXOQtw8s50skEL0eufKtEsnwa2tUHg3cEdrp1oOowgjlbtcBIBd-3C43avxabVEIi3pD61WbkaLoETSgJo2Az4JFcq94-BNyVpdwvnGQr7h0"
     },
     {
       "id":3,
       "name_category": "Sova",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "title":"Sova",
+      "image":"https://i.pinimg.com/originals/44/c3/d9/44c3d9a2424764d9b53e928e76690b31.jpg"
     },
     {
       "id":4,
       "name_category": "Jett",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "title":"Jett",
+      "image":"https://i.pinimg.com/originals/fd/00/85/fd0085f04f050b70dd2834140332f8fb.jpg"
     }
   ,
     {
       "id":5,
       "name_category": "Jett",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "title":"Jett2",
+      "image":"https://i.pinimg.com/736x/8b/17/45/8b1745ebbc824536e332658cafbec72b.jpg"
     },
     {
       "id":6,
       "name_category": "Sova",
-      "title":"Super Car",
+      "title":"Raze",
       "image":"file:///android_asset/image/car.jpg"
     },
      {
       "id":7,
       "name_category": "Kiljoy",
-      "title":"cat aja 2",
-      "image":"https://en.wiktionary.org/wiki/File:Cat03.jpg"
+      "title":"Reyna",
+      "image":"https://i.pinimg.com/564x/87/0c/33/870c33215ddfd915efe02a1064a7d162.jpg"
     }
   ]
 }
